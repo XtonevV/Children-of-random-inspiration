@@ -10,9 +10,6 @@ i'm still figuring github out, this page may look better later
 
 ## Swords: 
 .  Darkdrift - Katana of Grave Warden Agdayne. Has a crystal-clear blade and a strong attack that slices through enemy shields. This katana was originally wielded by the one who gave us first death, and still exists imperfectly between planes.
-.  Frying Pan - The Frying Pan is a promotional melee weapon for all classes with the exception of the Engineer and the Spy. It is based on the Frying Pan from the video game Left 4 Dead 2
-.  Golden Pan - The Golden Frying Pan is a melee weapon for all classes. It is a Frying Pan, either plated with or made of pure Australium.
-
 ## Axes: 
 .  Greataxe - Greataxe resembling a hunk of raw iron. If one posesses the inhuman strength required to lift the weapon, the great heft of its attacks will send foes flying.  However, since every swing makes use of one's entire body, attacks leave the wielder wide open to retaliation.
 
