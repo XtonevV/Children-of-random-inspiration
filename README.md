@@ -1,4 +1,5 @@
 # WELCOME to **the children birthed by randomness**
+i'm still figuring github out, this page may look better later
 
 ### ALL models and textures were made by me. Spare a colorblind fag and credit me if reused (you can use it as inspiration, inspiration doesn't need a credit)
 
