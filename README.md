@@ -1,11 +1,11 @@
 # WELCOME to **the children birthed by randomness**
 i'm still figuring github out, this page may look better later
 
-### ALL models and textures were made by me. Spare a colorblind fag and credit me if reused (you can use it as inspiration, inspiration doesn't need a credit)
+**ALL models and textures were made by me. Spare a colorblind fag and credit me if reused (you can use it as inspiration, inspiration doesn't need a credit)**
 
-## This is the list of the items to rename and the names:
+**This is the list of the items to rename and the names:**
 
-### IT'S ALL CASE SENSITIVE
+**IT'S ALL CASE SENSITIVE**
 **FOR TIERED TOOLS IT ONLY WORKS FOR IRON, DIAMOND AND NETHERITE**
 
 ## Swords: 
