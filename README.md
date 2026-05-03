@@ -10,6 +10,11 @@ i'm still figuring github out, this page may look better later
 
 ## Swords: 
 .  Darkdrift - Katana of Grave Warden Agdayne. Has a crystal-clear blade and a strong attack that slices through enemy shields. This katana was originally wielded by the one who gave us first death, and still exists imperfectly between planes.
+
+.  Frying Pan - The Frying Pan is a promotional melee weapon for all classes with the exception of the Engineer and the Spy. It is based on the Frying Pan from the video game Left 4 Dead 2
+
+.  Golden Pan - The Golden Frying Pan is a melee weapon for all classes. It is a Frying Pan, either plated with or made of pure Australium.
+
 ## Axes: 
 .  Greataxe - Greataxe resembling a hunk of raw iron. If one posesses the inhuman strength required to lift the weapon, the great heft of its attacks will send foes flying.  However, since every swing makes use of one's entire body, attacks leave the wielder wide open to retaliation.
 
@@ -35,6 +40,12 @@ i'm still figuring github out, this page may look better later
 .  Trans Crest Shield - Old medium metal shield of unknown origin. The trans crest is lightly imbued with wokeness, which slightly speeds stamina recovery. TRANS RIGHTS!!!!!
 
 .  Havel's Greatshield - Greatshield of the legendary Havel the Rock. Cut straight from a great slab of stone. This greatshield is imbued with the magic of Havel, proves a strong defense, and is incredibly heavy. A true divine heirloom on par with the Dragon tooth.
+
+## Spears:
+
+.  Lothric War Banner - The flagpole that once carried the Lothric crest, and guided the knights long ago. The tip of the pole is fitted with a sharply pointed decoration, letting it serve as a spear.
+
+.  Winged Spear - A long-hilted spear with winged lugs. Long reach, and can be used with shield up. Spear attacks are centered on thrusting, but can inflict high damage when timed with the end of an enemy's swing.
 
 ## Totems of Undying:
 
