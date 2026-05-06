@@ -17,6 +17,20 @@
           "type": "minecraft:model",
           "model": "ownpack:item/tou_riso"
         }
+      },
+      {
+        "when": "Blahaj",
+        "model": {
+          "type": "minecraft:model",
+          "model": "ownpack:item/tou_blahaj"
+        }
+      },
+      {
+        "when": "Blåhaj",
+        "model": {
+          "type": "minecraft:model",
+          "model": "ownpack:item/tou_blahaj"
+        }
       }
     ],
     "fallback": {
@@ -24,5 +38,5 @@
       "model": "minecraft:item/totem_of_undying"
     }
   },
-  "hand_animation_on_swap": false
+  "hand_animation_on_swap": true
 }
