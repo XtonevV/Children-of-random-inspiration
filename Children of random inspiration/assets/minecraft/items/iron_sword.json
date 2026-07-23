@@ -37,6 +37,40 @@
             }
           ]
         }
+      },{
+        "when": "Firelink Greatsword",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+              "ground",
+              "on_shelf",
+              "gui"
+            ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "ownpack:item/ds3_firelink_greatsword_gui"
+              }
+            },
+            {
+              "when": [
+                "firstperson_righthand",
+                "firstperson_lefthand",
+                "thirdperson_righthand",
+                "thirdperson_lefthand",
+                "head",
+                "fixed",
+                "none"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "ownpack:item/ds3_firelink_greatsword"
+              }
+            }
+          ]
+        }
       },
       {
         "when": "Frying Pan",
