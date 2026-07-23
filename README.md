@@ -15,6 +15,9 @@ i'm still figuring github out, this page may look better later
 
 .  Golden Pan - The Golden Frying Pan is a melee weapon for all classes. It is a Frying Pan, either plated with or made of pure Australium.
 
+.  Firelink Greatsword - The Lords of Cinder linked the First Flame, and this Greatsword was wielded by their deific manifestation. This coiled sword, found thrust in the bonfire, existed long before the throneless lords themselves.
+
+
 ## Axes: 
 .  Greataxe - Greataxe resembling a hunk of raw iron. If one posesses the inhuman strength required to lift the weapon, the great heft of its attacks will send foes flying.  However, since every swing makes use of one's entire body, attacks leave the wielder wide open to retaliation.
 
@@ -52,4 +55,12 @@ i'm still figuring github out, this page may look better later
 .  Xtonev - A plushie of the creator of the resource pack (me). If you ever wanted to hold a non-binary, pansexual queer you can do it now!
 
 .  Fineriso - A plushie of my cousin who helped a lot with getting the colors right. Treat me lad with respect
+
+.  Blahaj / Blåhaj [both names work] - Blåhaj is a stuffed toy resembling a blue shark.
+
+## Misc:
+[mostly random items]
+
+.  Bonfire - A resting place for all hollows. 
+
 
